@@ -24,7 +24,7 @@
 15. **video y /video:**  Se usa para reproducir video en la página web junto a sus archivos de audio
 16. **audio y /audio:** Usada para cargar en una web un archivo de audio
 17. **color:** Selecciona el valor de color de primer plano del contenido de elemento de texto y decoraciones de texto
-18. **background-color:**
+18. **background-color:** Define el color de fondo de un elemento
 ### **Para la creación de tablas:**
 19. **table y /table:** Etiquetas de apertura y cierre de una tabla. El resto de etiquetas de la tabla han de ir siempre recogidas entre estas dos etiquetas
 20. **caption y /caption:** Usada para indicar el título de la tabla
